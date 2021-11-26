@@ -1,5 +1,7 @@
 # Obsidian Dark Theme for VS Code
 
+![Preview](https://raw.githubusercontent.com/Hamza-Aziane/obsidian-dark/main/images/obsidian-dark-theme.png)
+
 # Installation
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
