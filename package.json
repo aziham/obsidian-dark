@@ -4,6 +4,10 @@
     "description": "Elegant yet practical dark theme",
     "publisher": "Hamza-Aziane",
     "version": "1.0.0",
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/Hamza-Aziane/obsidian-dark"
+	},
     "keywords": [
         "theme",
         "dark theme",
@@ -22,7 +26,6 @@
     ],
     "contributes": {
         "themes": [
-            
             {
                 "label": "Obsidian Dark",
                 "uiTheme": "vs-dark",
