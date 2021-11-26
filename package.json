@@ -1,0 +1,33 @@
+{
+    "name": "obsidian-dark",
+    "displayName": "Obsidian Dark",
+    "description": "Elegant yet practical dark theme",
+    "publisher": "Hamza-Aziane",
+    "version": "1.0.0",
+    "keywords": [
+        "theme",
+        "dark theme",
+        "obsidian",
+        "obsidian theme",
+        "obsidian dark theme",
+        "obsidian dark",
+        "elegant dark theme",
+        "practical dark theme"
+    ],
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            
+            {
+                "label": "Obsidian Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Obsidian-Dark.json"
+            }
+        ]
+    }
+}
